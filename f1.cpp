@@ -19,8 +19,8 @@ class branch
 int main()
 {
         branch b1;
-	b1.display();
-	b1.add();
+	b1.display();//display function calling//
+	b1.add();//add function calling//
 
  return 0;
 }
