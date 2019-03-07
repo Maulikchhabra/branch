@@ -18,8 +18,8 @@ class branch
 int main()
 {
         branch b1;
-	b1.display();
-	b1.show();
+	b1.display();//function calling 1//
+	b1.show();//function calling 2//
 
  return 0;
 }
